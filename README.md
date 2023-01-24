@@ -36,12 +36,12 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199408705-ed302b2a-90c3-41c0-9cc4-791a93366e2a.png)
 
 ## OUPUT!
-[Screenshot_20230124_115158](https://user-images.githubusercontent.com/122860624/214224896-0850b69a-4a4c-43ed-96f5-ccf9e186ce40.png)
 
 
 
 
 
+![Screenshot_20230124_115158](https://user-images.githubusercontent.com/122860624/214225358-a7115ddc-de62-49e0-97d4-40222d6d17a5.png)
 
 
 
